@@ -1,0 +1,5 @@
+Pseudo Code:
+Set x to 1
+While(x < 20)
+ write x
+ x = x*5
